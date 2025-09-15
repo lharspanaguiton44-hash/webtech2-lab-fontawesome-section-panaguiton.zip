@@ -1,0 +1,17 @@
+# Bootstrap + Font Awesome Login Lab
+
+## Features
+- Bootstrap 5 form
+- Font Awesome icons (email, password, buttons)
+- Spinner loading animation
+- Success alert box
+
+## Files
+- `login.html` → main login form
+- `README.md` → documentation
+
+## Usage
+1. Open `login.html` sa browser.
+2. Maglagay ng email at password.
+3. Click **Login** → spinner will appear.
+4. After 3 seconds → success alert.
